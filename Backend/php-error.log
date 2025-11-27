@@ -1,0 +1,10 @@
+[20-Nov-2025 05:26:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\xampp\htdocs\EMS\Backend\meetings_api.php:59
+Stack trace:
+#0 C:\xampp\htdocs\EMS\Backend\meetings_api.php(158): MeetingsAPI->scheduleMeeting(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS\Backend\meetings_api.php on line 59
+[20-Nov-2025 05:26:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\xampp\htdocs\EMS\Backend\meetings_api.php:59
+Stack trace:
+#0 C:\xampp\htdocs\EMS\Backend\meetings_api.php(158): MeetingsAPI->scheduleMeeting(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS\Backend\meetings_api.php on line 59
